@@ -10,7 +10,7 @@
 
     <properties>
         <log4j2.version>2.10.0</log4j2.version>
-        <netty.version>4.1.16.Final</netty.version>
+        <netty.version>4.1.42.Final</netty.version>
         <junit.version>4.12</junit.version>
         <fastjson.version>1.2.35</fastjson.version>
     </properties>
